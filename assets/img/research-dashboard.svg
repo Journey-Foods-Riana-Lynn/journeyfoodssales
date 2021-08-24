@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="425px" height="400px" viewBox="0 0 425 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>research-dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="117" cy="117" r="117"></circle>
+        <path d="M48.396946,211.737987 C67.7645339,225.728992 91.6314909,234 117.510917,234 C181.617316,234 234,181.617316 234,117.510917 C234,52.3826843 181.617316,0 117.510917,0" id="path-3"></path>
+        <circle id="path-5" cx="90.048" cy="90.48" r="90"></circle>
+        <path d="M0.048,90.8730131 C0.048,140.185627 40.3423725,180.48 90.4410131,180.48 C139.753627,180.48 180.048,140.185627 180.048,90.8730131 C180.048,40.7743725 139.753627,0.48 90.4410131,0.48" id="path-7"></path>
+        <circle id="path-9" cx="63.648" cy="64.08" r="63.6"></circle>
+        <path d="M0.048,64.3577293 C0.048,99.2053101 28.5226899,127.68 63.9257293,127.68 L63.9257293,127.68 C98.7733101,127.68 127.248,99.2053101 127.248,64.3577293 C127.248,28.9546899 98.7733101,0.48 63.9257293,0.48" id="path-11"></path>
+    </defs>
+    <g id="research-dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="graph" transform="translate(96.000000, 53.000000)">
+            <g id="3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Oval" stroke="#EEEEEE" stroke-width="9.6" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Oval" stroke="#5CBB9C" stroke-width="9.6" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+            </g>
+            <g id="2" transform="translate(26.352000, 25.920000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Oval" stroke="#EEEEEE" stroke-width="9.6" xlink:href="#path-5"></use>
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Oval" stroke="#F8BC66" stroke-width="9.6" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-7"></use>
+            </g>
+            <g id="1" transform="translate(52.752000, 52.320000)">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <use id="Oval" stroke="#EEEEEE" stroke-width="9.6" xlink:href="#path-9"></use>
+                <mask id="mask-12" fill="white">
+                    <use xlink:href="#path-11"></use>
+                </mask>
+                <use id="Oval" stroke="#6E6EAB" stroke-width="9.6" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-11"></use>
+            </g>
+        </g>
+        <g id="3" transform="translate(278.000000, 317.000000)" fill="#6E6EAB">
+            <circle id="Oval" cx="4.5" cy="4.5" r="4.5"></circle>
+        </g>
+        <g id="2" transform="translate(166.000000, 317.000000)" fill="#F8BC66">
+            <circle id="Oval" cx="4.5" cy="4.5" r="4.5"></circle>
+        </g>
+        <g id="1" transform="translate(54.000000, 317.000000)" fill="#5CBB9C">
+            <circle id="Oval" cx="4.5" cy="4.5" r="4.5"></circle>
+        </g>
+        <rect id="Rectangle" fill="#DEDEDE" x="68" y="316" width="79" height="10" rx="5"></rect>
+        <rect id="Rectangle-Copy-3" fill="#DEDEDE" x="180" y="316" width="79" height="10" rx="5"></rect>
+        <rect id="Rectangle-Copy" fill="#DEDEDE" x="68" y="330" width="79" height="4" rx="2"></rect>
+        <rect id="Rectangle-Copy-4" fill="#DEDEDE" x="180" y="330" width="79" height="4" rx="2"></rect>
+        <rect id="Rectangle-Copy-2" fill="#DEDEDE" x="68" y="336" width="79" height="4" rx="2"></rect>
+        <rect id="Rectangle-Copy-5" fill="#DEDEDE" x="180" y="336" width="79" height="4" rx="2"></rect>
+        <rect id="Rectangle-Copy-8" fill="#DEDEDE" x="292" y="316" width="79" height="10" rx="5"></rect>
+        <rect id="Rectangle-Copy-7" fill="#DEDEDE" x="292" y="330" width="79" height="4" rx="2"></rect>
+        <rect id="Rectangle-Copy-6" fill="#DEDEDE" x="292" y="336" width="79" height="4" rx="2"></rect>
+        <rect id="Rectangle" fill="#DEDEDE" x="34" y="60" width="68" height="10" rx="5"></rect>
+        <rect id="Rectangle-Copy-9" fill="#DEDEDE" x="34" y="72" width="40" height="4" rx="2"></rect>
+    </g>
+</svg>
