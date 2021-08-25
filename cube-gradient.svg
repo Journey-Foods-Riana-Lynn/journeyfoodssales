@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>cube</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="98.0282545%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5CBB9C" offset="0%"></stop>
+            <stop stop-color="#293397" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id=".io-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="site-homepage" transform="translate(-830.000000, -850.000000)" stroke-width="3">
+            <g id="cube" transform="translate(832.000000, 851.000000)">
+                <g id="4">
+                    <g id="Layer_2">
+                        <g id="_2">
+                            <path d="M70,36 C70,55.3299662 54.3299662,71 35,71 C32.4000953,70.9985112 29.8081061,70.7134929 27.27,70.15 L27.27,70.15 C16.841438,67.7891671 8.0640904,60.7908623 3.44,51.15 L3.44,51.15 C2.13837445,48.4699344 1.20009863,45.6282029 0.65,42.7 C0.214562484,40.4933245 -0.00314867449,38.2492249 0,36 C-0.0150143582,26.71432 3.6742234,17.8061605 10.25,11.25 C11.6059539,9.89633741 13.0672088,8.65243167 14.62,7.53 C25.0792703,0.0232580153 38.8153324,-1.13537137 50.3842551,4.51330448 C61.9531778,10.1619803 69.4870433,21.7059265 70,34.57 C70,35.05 70,35.52 70,36 Z" id="Path" stroke="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                            <rect id="Rectangle" stroke="#2B398E" x="19.85" y="39.54" width="13" height="13" rx="1"></rect>
+                            <rect id="Rectangle" stroke="#2B398E" x="36.85" y="39.54" width="13" height="13" rx="1"></rect>
+                            <rect id="Rectangle" stroke="#2B398E" transform="translate(29.855207, 27.536362) rotate(74.240000) translate(-29.855207, -27.536362) " x="23.3552073" y="21.0363618" width="13" height="13" rx="1"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
