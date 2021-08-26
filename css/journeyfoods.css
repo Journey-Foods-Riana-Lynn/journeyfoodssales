@@ -67,8 +67,12 @@ p {
   background-color: #5CBB9C;
 }
 
+.bg-lightblue{
+  background-color: #2C3E50;
+}
+
 .bg-grey{
-  background-color: #657280;
+  background-color: #2C3E50;
 }
 
 .green-bar{
